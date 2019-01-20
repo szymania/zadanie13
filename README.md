@@ -1,0 +1,2 @@
+# zadanie13
+Skrypt
